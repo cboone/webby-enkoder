@@ -59,7 +59,7 @@ We could have anything we wanted in that block, XHTML, links, email addresses, e
 
 For more examples and to see the full functionality of the Enkoder, have a look its permanent page on the web:
 
-http://hivelogic.com/enkoder
+[http://hivelogic.com/enkoder][h-e]
 
 
 ## License:
@@ -67,3 +67,6 @@ http://hivelogic.com/enkoder
 Copyright (c) 2009 Hivelogic Corporation.
 
 This plugin is released under the GPL license. See LICENSE file for details.
+
+
+[h-e]: http://hivelogic.com/enkoder
