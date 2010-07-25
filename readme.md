@@ -1,8 +1,8 @@
-# Hypsometric filters for Webby.
+# Hypsometric helpers for Webby.
 
 By [Christopher Boone][Hpm].
 
-A hodge-podge of filters that I've created or modified for use with [Webby][]. Including:
+A hodge-podge of helpers and filters that I've created or modified for use with [Webby][]. Including:
 
 - [Enkoder][w-e]: A retouching of [Dan Benjamin's][Dan Benjamin] [Hivelogic Enkoder plugin for Rails.][h-e-r] See also [the original Hivelogic Enkoder.][h-e]
 

@@ -1,6 +1,6 @@
 # Hivelogic Enkoder for Webby.
 
-The Enkoder library provides a Webby filter that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
+The Enkoder library provides a Webby helper that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
 
 Note: There's no guarantee here -- the only way to be completely safe is to not publish your address at all.
 
