@@ -1,4 +1,4 @@
-# Enkoder for [Webby][].
+# [Enkoder][h-e] for [Webby][].
 
 A minor, but useful, modification of [Dan Benjamin's][db] [Hivelogic Enkoder Rails plugin][h-e-r], by [Christopher Boone][hpm].
 
