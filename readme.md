@@ -17,7 +17,7 @@ For more examples and to see the full functionality of the Enkoder, have a look 
 
 ## Installation:
 
-Just drop the [`enkoder.rb`][e-rb] file into the /lib folder in your project.
+Just drop [the `enkoder.rb` file][e-rb] into the /lib folder in your project.
 
 
 ## Usage:
