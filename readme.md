@@ -1,13 +1,23 @@
-# Hivelogic Enkoder for Webby.
+# Enkoder for Webby.
+
+A minor, but useful, modification of [Dan Benjamin's][db] [Hivelogic Enkoder Rails plugin.][h-e-r], by [Christopher Boone][hpm].
 
 The Enkoder library provides a Webby helper that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
 
 Note: There's no guarantee here -- the only way to be completely safe is to not publish your address at all.
 
 
+## More information:
+
+For more examples and to see the full functionality of the Enkoder, have a look at:
+
+* Enkoder's permanent page on the web: [http://hivelogic.com/enkoder][h-e]
+* The Rails Enkoder plugin on Github: [http://github.com/dan/hivelogic-enkoder-rails][h-e-r]
+
+
 ## Installation:
 
-Just drop the "enkoder.rb" file into the /lib folder in your project.
+Just drop the [`enkoder.rb`][e-rb] file into the /lib folder in your project.
 
 
 ## Usage:
@@ -57,16 +67,17 @@ We could protect a link or block of XHTML from being indexed like this:
 
 We could have anything we wanted in that block, XHTML, links, email addresses, etc.
 
-For more examples and to see the full functionality of the Enkoder, have a look its permanent page on the web:
-
-[http://hivelogic.com/enkoder][h-e]
-
 
 ## License:
 
 Copyright (c) 2009 Hivelogic Corporation.
 
-This plugin is released under the GPL license. See LICENSE file for details.
+This plugin is released under the GPL license. See [the LICENSE file][license] for details.
 
 
 [h-e]: http://hivelogic.com/enkoder
+[db]: http://hivelogic.com/
+[h-e-r]: http://github.com/dan/hivelogic-enkoder-rails
+[hpm]: http://hypsometry.com/
+[e-rb]: http://github.com/cboone/webby-enkoder/blob/master/enkoder.rb
+[license]: http://github.com/cboone/webby-enkoder/blob/master/LICENSE
