@@ -1,6 +1,6 @@
 # Enkoder for Webby.
 
-A minor, but useful, modification of [Dan Benjamin's][db] [Hivelogic Enkoder Rails plugin.][h-e-r], by [Christopher Boone][hpm].
+A minor, but useful, modification of [Dan Benjamin's][db] [Hivelogic Enkoder Rails plugin][h-e-r], by [Christopher Boone][hpm].
 
 The Enkoder library provides a Webby helper that can be used to protect email addresses (or other information) by obfuscating them using JavaScript code. The only way to decrypt the JavaScript is to actually run it, hiding the results from email-harvesting robots while revealing them to real people.
 
